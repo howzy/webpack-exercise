@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/zh-once/webpack-exercise#readme",
   "devDependencies": {
+    "json-loader": "^0.5.4",
     "webpack": "^2.3.3",
     "webpack-dev-server": "^2.4.2"
   }
