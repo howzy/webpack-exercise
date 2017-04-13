@@ -1,0 +1,22 @@
+{
+  "name": "webpack-exercise",
+  "version": "1.0.0",
+  "description": "a simple webpace exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zh-once/webpack-exercise.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "zhouhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zh-once/webpack-exercise/issues"
+  },
+  "homepage": "https://github.com/zh-once/webpack-exercise#readme"
+}
